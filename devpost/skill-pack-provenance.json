@@ -1,0 +1,9 @@
+{
+  "source": "https://github.com/challengepost/learn-ai-basics",
+  "revision": "a0f065781873e8a7ed9a9a705a8dafa6a0810439",
+  "license": "MIT",
+  "installed_at": ".agents/skills/",
+  "actual_skills": ["1-start", "2-scope", "3-prd", "4-spec", "5-build", "6-ship"],
+  "stage_status": "1-start through 4-spec applied with explicit human delegation; 5-build local implementation and agent review complete; human activities unperformed; 6-ship technical preparation applied with documented delegation, publication and submission pending",
+  "workflow_adaptation": "Human explicitly delegated idea and routine decisions to ChatGPT Pro Deep Research and requested no routine questions. No human interviews, personal reviews, testing or learning outcomes are fabricated."
+}
