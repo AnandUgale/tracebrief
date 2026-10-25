@@ -1,0 +1,1 @@
+{"name":"tracebrief","version":"0.1.0","private":true,"description":"A local source-linked extractive briefing tool","scripts":{"start":"node server.js","test":"node --test"},"license":"MIT"}
